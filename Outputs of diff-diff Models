@@ -1,0 +1,13 @@
+Model O/P
+
+1. Decission Tree Regression
+    Mean:  4.1046834241906875
+    Standard deviation:  0.8370798323402592
+
+2. Linear Regression
+    Mean:  5.038815267481955
+    Standard deviation:  1.0564351600511586
+    
+3. Random Forest Regression
+    Mean:  3.306166159841291
+    Standard deviation:  0.7118666765817877
